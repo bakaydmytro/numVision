@@ -161,3 +161,4 @@ cython_debug/
 
 /images
 mnist_model.h5
+.idea
